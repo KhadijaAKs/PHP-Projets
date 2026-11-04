@@ -1,0 +1,9 @@
+[submodule "TP1-PHP"]
+	path = TP1-PHP
+	url = https://github.com/KhadijaAKs/TP1-PHP.git
+[submodule "TP2-PHP"]
+	path = TP2-PHP
+	url = https://github.com/KhadijaAKs/TP2-PHP.git
+[submodule "TP3-PHP"]
+	path = TP3-PHP
+	url = https://github.com/KhadijaAKs/TP3-PHP.git
